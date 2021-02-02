@@ -1,0 +1,19 @@
+.bg {
+    position: relative; 
+    top: 2px; 
+    left: 300px; 
+    border-image-width: 1in;
+     /* Preserve aspet ratio */
+    min-width: 30%;
+    min-height: 40%;
+
+    z-index: -1;
+
+
+    }
+    
+    .right p {
+        margin-bottom: 1500px;
+        font-weight: bolder;
+        font-size: 2ch;
+    }
